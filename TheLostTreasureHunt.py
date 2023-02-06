@@ -6,7 +6,7 @@ def clear_screen():
 
 def press_to_continue():
     print("Press enter to continue...")
-    input()
+    input("")
 
 def show_help():
     clear_screen()
