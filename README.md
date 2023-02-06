@@ -22,7 +22,7 @@ Or download the repository as a ZIP file and extract it to your desired location
 
 Navigate to the project directory and run the game with the following command:
 
-python game.py
+python TheLostTreasureHunt.py
 
 
 
