@@ -6,7 +6,7 @@ def clear_screen():
 
 def press_to_continue():
     print("Press enter to continue...")
-    input("")
+    input()
 
 def show_help():
     clear_screen()
@@ -98,7 +98,7 @@ def cross_bridge():
     clear_screen()
     print("You successfully crossed the bridge and reached safety.\n")
     print("Congratulations, you have completed the game.\n")
-    print("Thanks for playing. Dont forget to like and subscribe to our channel: https://www.youtube.com/@PythonAdventuresGames/ ")
+    print("Thanks for playing.")
     press_to_continue()
     exit()
 
